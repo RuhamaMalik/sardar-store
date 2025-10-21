@@ -1,0 +1,15 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "http://backend.sardarstore.com/api",
+    "NEXT_PUBLIC_SITE_URL": "https://www.sardarstore.com/",
+    "NEXT_PUBLIC_LOCAL_API_ENDPOINT": "https://www.sardarstore.com/api"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "http://backend.sardarstore.com/api",
+      "NEXT_PUBLIC_SITE_URL": "https://www.sardarstore.com/",
+      "NEXT_PUBLIC_LOCAL_API_ENDPOINT": "https://www.sardarstore.com/api"
+
+    }
+  }
+}
