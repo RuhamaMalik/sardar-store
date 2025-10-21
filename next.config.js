@@ -30,14 +30,14 @@ module.exports = {
         pathname: '/**',
       },
       {
-        protocol: 'https',
-        hostname: 'lihabackend.mayonity.com',
+        protocol: 'http',
+        hostname: 'backend.sardarstore.com',
         port: '',
         pathname: '/upload/**',
       },
       {
         protocol: 'https',
-        hostname: 'sardarstore.backend.mayonity.com',
+        hostname: 'backend.sardarstore.com',
         port: '',
         pathname: '/upload/**',
       }
