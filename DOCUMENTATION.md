@@ -1,4 +1,4 @@
-# BoroBazar Documentation
+# SARDARSTORE Documentation
 
 ## Introduction
 
